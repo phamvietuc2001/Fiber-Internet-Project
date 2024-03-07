@@ -6,7 +6,7 @@ This is the Business Intelligence project I did after taking the BI professional
     * **Project document** contains the following: purpose, stakeholder requirements, success criteria, etc.
     * **Strategy document** deals with approaching the data and getting feedback from the stakeholders
 * The 2nd phase is to **consolidate** the data from **multiple sources into a target table** by using SQL and **load** it into the unified destination (Tableau in this project)
-* The final phase is to create the **dashboard, and the **slide-deck presentation** to present the insights to the stakeholders (here is the Tableau workbook: https://public.tableau.com/app/profile/viet.pham4981/viz/Fiber_/Google_Fiber_Project)
+* The final phase is to create the **dashboard**, and the **slide-deck presentation** to present the insights to the stakeholders (here is the Tableau workbook: https://public.tableau.com/app/profile/viet.pham4981/viz/Fiber_/Google_Fiber_Project)
 
 #### Here is the scenario: 
 
