@@ -1,12 +1,12 @@
 # Fiber-Internet-Project
 
-This is the Business Intelligence project I did after taking the BI professional certificate. Specifically, it broke down into three phases corresponding with 3 courses to complete this project:
+Here is the Business Intelligence project I did after taking the BI professional certificate. Specifically, it broke down into three phases corresponding with 3 courses to complete this project:
 * The 1st phase is to complete the BI documents, which include **stakeholders' requirements, project requirements, and strategy requirements**
     * **Stakeholders document** enables capturing stakeholder requests and requirements to understand their needs before planning the rest of the project details or strategy 
     * **Project document** contains the following: project's purpose, stakeholder requirements, success criteria, etc.
     * **Strategy document** deals with approaching the data and getting feedback from the stakeholders by creating data visualizations and dashboard mockups.
 * The 2nd phase is to **consolidate** the data from **multiple sources into a target table** by using SQL and **load** it into the unified destination (Tableau in this project)
-* The final phase is to create the **dashboard**, and the **slide-deck presentation** to present the insights to the stakeholders (here is the Tableau workbook: https://public.tableau.com/app/profile/viet.pham4981/viz/Fiber_/Google_Fiber_Project)
+* The final phase is to create the **dashboard**, and the **slide-deck presentation** to present the insights to the stakeholders (here is the Tableau workbook: [Fiber Internet Project](https://public.tableau.com/app/profile/viet.pham4981/viz/Fiber_/Google_Fiber_Project))
 
 #### Here is the scenario: 
 
